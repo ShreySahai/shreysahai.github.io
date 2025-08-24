@@ -2,6 +2,19 @@ baseURL: "https://shreysahaigupta.ind/"
 title: Shrey Sahai Gupta
 theme: PaperMod
 
+
+# config.yml
+
+params:
+  # Set the default theme for new visitors. 
+  # Options: "light", "dark", "auto" (respects the visitor's OS setting)
+  defaultTheme: dark 
+
+  # Hide the theme toggle button if you want to force a single theme
+  # Set to true to hide, false to show
+  disableThemeToggle: false
+
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
