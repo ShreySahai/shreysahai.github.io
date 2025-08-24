@@ -2,19 +2,6 @@ baseURL: "https://shreysahai.github.io/webpage/"
 title: Shrey Sahai Gupta
 theme: PaperMod
 
-
-# config.yml
-
-params:
-  # Set the default theme for new visitors. 
-  # Options: "light", "dark", "auto" (respects the visitor's OS setting)
-  defaultTheme: dark 
-
-  # Hide the theme toggle button if you want to force a single theme
-  # Set to true to hide, false to show
-  disableThemeToggle: false
-
-
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
@@ -43,10 +30,10 @@ menu:
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    author: Shrey Sahai Gupta
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
