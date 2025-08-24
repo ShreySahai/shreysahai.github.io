@@ -99,7 +99,7 @@ params:
     label:
       text: "Shrey Sahai Gupta"
       icon: favicon.ico
-      iconHeight: 18
+      iconHeight: 56
 
 markup:
     goldmark:
