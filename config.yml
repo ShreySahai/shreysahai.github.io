@@ -78,7 +78,7 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
-        - linkedin: LinkedIn
+        - name: LinkedIn
           url: https://www.linkedin.com/in/shrey-sahai-gupta/
         - name: Email
           url: mailto:shreyg@iisc.ac.in
