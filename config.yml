@@ -29,7 +29,7 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Shrey's personal portfolio."
     author: Shrey Sahai Gupta
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -78,6 +78,8 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
+        - linkedin: LinkedIn
+          url: https://www.linkedin.com/in/shrey-sahai-gupta/
         - name: Email
           url: mailto:shreyg@iisc.ac.in
         - name: Location
