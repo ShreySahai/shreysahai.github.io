@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Shrey Sahai Gupta
           subtitle: "I am a doctoral student in the Department of Mechanical Engineering at the Indian Institute of Science Bangalore. My research focuses on numerical control studies of supercritical Carbon Dioxide based Brayton power cycles."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
