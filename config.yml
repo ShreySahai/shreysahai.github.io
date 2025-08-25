@@ -65,9 +65,9 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
-            - name: Data
+            - name: Teaching
               url: data/
             - name: Books
               url: books/
@@ -95,6 +95,8 @@ params:
           url: https://github.com/ShreySahai
         - name: Twitter
           url: https://x.com/techscholarind
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Shrey-Gupta-4?ev=hdr_xprf
 
     assets:
         disableScrollBarStyle: true
