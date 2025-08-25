@@ -1,8 +1,8 @@
 ---
 title: "Location"
-date: 2024-05-08
+date: 2025-08-25
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Address"
 
 ---
 
@@ -10,18 +10,13 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
-
----
-
-#### Office address
-
-Room 133  
-Institute of Romance Philology  
-University of Regensburg
+Shrey Sahai Gupta
+Thermal Systems Lab
+Department of Mechanical Engineering
+Indian Institute of Science, Bangalore
+CV Raman Road 560012
+Bangalore, Karnataka
+India
 
 ---
 
