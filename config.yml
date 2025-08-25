@@ -55,8 +55,10 @@ params:
     profileMode:
           enabled: true
           title: Shrey Sahai Gupta
-          subtitle: " **Mechanical Engineer** | **IISc Bangalore** <br>
-          **Prime Minister Research Fellow** | **IIT Ropar** <br>
+          subtitle: " **Mechanical Engineer** | **IISc Bangalore** 
+          <br><br>
+          **Prime Minister Research Fellow** | **IIT Ropar** 
+          <br><br>
 
 
 
@@ -67,17 +69,17 @@ params:
           buttons:
             - name: Publications
               url: papers/
-            - name: Teaching
+            - name: Research
               url: data/
-            - name: Books
+            - name: Talks
               url: books/
-            - name: Courses
+            - name: Teaching
               url: courses/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
+            - name: Contact
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
@@ -91,12 +93,12 @@ params:
           url: location/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=p0Nb_g0AAAAJ&hl=en&oi=ao
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Shrey-Gupta-4?ev=hdr_xprf
         - name: GitHub
           url: https://github.com/ShreySahai
         - name: Twitter
           url: https://x.com/techscholarind
-        - name: ResearchGate
-          url: https://www.researchgate.net/profile/Shrey-Gupta-4?ev=hdr_xprf
 
     assets:
         disableScrollBarStyle: true
