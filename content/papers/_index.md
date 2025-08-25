@@ -3,7 +3,7 @@ title: "Papers"
 description: "Preprints and articles by Shrey."
 ---
 
-<p align="center">
+<p style="text-align: center;">
 
 Publication Summary
 
