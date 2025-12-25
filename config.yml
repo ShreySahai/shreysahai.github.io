@@ -55,13 +55,8 @@ params:
     profileMode:
           enabled: true
           title: Shrey Sahai Gupta
-          subtitle: " **Mechanical Engineer** | **Prime Minister Research Fellow** | **IISc Bangalore** 
+          subtitle: " **Mechanical Engineer** | **Prime Minister Research Fellow** | **IISc Bangalore** | **IIT Ropar** 
           <br><br>
-           **IIT Ropar** 
-          <br><br>
-
-
-
           I am a doctoral student in the Department of Mechanical Engineering at the Indian Institute of Science Bangalore. My research focuses on numerical control studies of supercritical Carbon Dioxide based Brayton power cycles."
           imageUrl: "picture.jpg"
           imageWidth: 160
