@@ -1,21 +1,25 @@
 ---
 title: "Numerical Modeling and Control of Supercritical Carbon Dioxide Power Cycles" 
-date: 2013-03-07
+date: 2024
 tags: ["Supercritical Carbon Dioxide","System Simulation","Model Predictive Control","State Space Control","Inventory Control"]
 author: ["Shrey Sahai Gupta","Pramod Kumar"]
 description: "Research Overview"
 summary: ""
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "GitHub repository"
+    URL: "https://www.researchgate.net/publication/396498915_Inventory_Management_and_Control_Options_for_Transient_Operation_of_sCO2_Brayton_Cycles"
+    Text: "ResearchGate"
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
+## Graphical Abstract
+
+![sCO₂ Brayton cycle](graphicalabstract1.png)
+
 ## Overview
 
-This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The doctoral research focuses on the numerical modeling and control of supercritical CO₂ Brayton cycles for power generation and waste heat recovery. I develop first-principles, component-level models integrated into closed-loop cycle simulations to study steady-state, part-load, off-design, and transient behavior. A key emphasis of my work is control-oriented model reduction to enable systematic analysis of classical control strategies and their limitations, followed by the design and implementation of advanced controllers, including Model Predictive Control, for load regulation and dynamic operation. This work contributes to the broader goal of improving the operability and commercial viability of sCO₂ power systems.
 
 ---
 
