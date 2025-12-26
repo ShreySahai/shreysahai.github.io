@@ -1,6 +1,6 @@
 ---
 title: "Numerical Modeling and Control of Supercritical Carbon Dioxide Power Cycles" 
-date: 2024
+date: 2024-08-02
 tags: ["Supercritical Carbon Dioxide","System Simulation","Model Predictive Control","State Space Control","Inventory Control"]
 author: ["Shrey Sahai Gupta","Pramod Kumar"]
 description: "Research Overview"
@@ -15,7 +15,7 @@ disableAnchoredHeadings: false
 
 ## Graphical Abstract
 
-![sCO₂ Brayton cycle](static/graphicalabstract1.png)
+![sCO₂ Brayton cycle](/static/graphicalabstract1.png)
 
 ## Overview
 
