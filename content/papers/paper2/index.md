@@ -1,6 +1,6 @@
 ---
 title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
+date: 2006-12-28
 tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 

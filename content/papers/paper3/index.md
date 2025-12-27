@@ -1,17 +1,17 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Inventory Management and Control Options for Transient Operation of Supercritical Carbon Dioxide Brayton Cycles" 
+date: 2002-03-01
+tags: ["supercritical carbon dioxide","inventory control","nonminimum phase","proportional-integral","Bode plots"]
+author: ["Shrey Sahai Gupta", "Pramod Kumar","Pramod Chandra Gopi"]
+description: "This paper discusses a control-oriented modelling methodology for inventory control of Supercritical Carbon Dioxide Cycles. Published in the Journal of Engineering for Gas Turbines and Power, 2026." 
+summary: "A control-oriented modelling methodology for system representation was proposed for classical and advanced control." 
 cover:
     image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    alt: "Control-oriented Model"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    URL: "https://doi.org/10.1115/1.4070112"
+    Text: "Journal of Engineering for Gas Turbines and Power, 2026"
 
 ---
 

@@ -7,10 +7,13 @@ description: "Preprints and articles by Shrey."
 
 Publication Summary
 
-| Journal | Conference | Travel Grants |
-| :--- | :--- | :---: |
-| 2 | 6 | 1 |
-
+|           Category        |         Count        |                       Notes                   |
+|:------------------------- |:--------------------:| ---------------------------------------------:|
+| Journal articles          |           2          |           J. Eng. Gas Turbine and Power       |
+| Conference papers         |           6          |     ASME Turbo Expo, IHMTC HTC, IMECE-India   |
+| First-author papers       |           7          |            One 2$^{nd}$ Author                |
+| Total citations           |           7          |                 Google Scholar                |
+| h-index                   |           2          |                     As of 2025                |
 </p>
 
 
