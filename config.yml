@@ -32,7 +32,7 @@ params:
     description: "This website hosts Shrey's personal portfolio."
     author: Shrey Sahai Gupta
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "2006"
     defaultTheme: dark
     hideFooter: true
     disableThemeToggle: false
