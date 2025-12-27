@@ -10,7 +10,10 @@ editPost:
     Text: "ResearchGate"
 showToc: true
 disableAnchoredHeadings: false
-
+cover:
+    image: "graphicalabstract1.png"
+    alt: "sCO₂ Brayton cycle"
+    relative: true
 ---
 
 ## Graphical Abstract
