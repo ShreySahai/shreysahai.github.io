@@ -18,7 +18,7 @@ cover:
 
 ## Graphical Abstract
 
-![sCO₂ Brayton cycle](graphicalabstract1.png)
+![sCO₂ Brayton cycle](/graphicalabstract1.png)
 
 ## Overview
 
