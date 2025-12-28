@@ -12,21 +12,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Talks
-          url: books/
+        - name: Gallery
+          url: gallery/
           weight: 5 
         - name: Publications
-          url: papers/
+          url: publications/
           weight: 2
         - name: Teaching
-          url: courses/
+          url: teaching/
           weight: 4
         - name: Research
-          url: data/
+          url: research/
           weight: 3 
-        - name: Contact
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
     description: "This website hosts Shrey's personal portfolio."
@@ -44,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["gallery","teaching","publications","research"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -63,19 +60,17 @@ params:
           imageHeight: 160
           buttons:
             - name: Publications
-              url: papers/
+              url: publications/
             - name: Research
-              url: data/
-            - name: Talks
-              url: books/
+              url: research/
+            - name: Gallery
+              url: gallery/
             - name: Teaching
-              url: courses/
+              url: teaching/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Contact
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
