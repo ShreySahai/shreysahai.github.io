@@ -13,7 +13,7 @@ taxonomies:
 menu:
     main:
         - name: Gallery
-          url: gallery/
+          url: /gallery/
           weight: 5 
         - name: Publications
           url: publications/
@@ -71,6 +71,8 @@ params:
               url: tags/
             - name: Archive
               url: archive/
+            - name: Gallery
+              url: /webpage-gallery
 
     socialIcons:
         - name: CV
